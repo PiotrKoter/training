@@ -7,5 +7,6 @@ int main() {
 
 	cout << "Hello world" << endl;
 	cout << "Hello Coders School" << endl;
+	cout << "Hello master" << endl;
 	return 0;
 }
